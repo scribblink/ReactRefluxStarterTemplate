@@ -1,4 +1,4 @@
-James Personal Starter Template for React
+My Personal Starter Template for React
 
 ###Installation Instructions###
 Checkout this repo, install depdencies, then start the gulp process with the following:
